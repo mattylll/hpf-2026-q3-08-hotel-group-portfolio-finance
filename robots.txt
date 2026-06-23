@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/hpf-2026-q3-08-hotel-group-portfolio-finance/sitemap.xml
